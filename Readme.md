@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Виктор Гладков](https://up.htmlacademy.ru/htmlcss/38/user/46452).
-* Наставник: `Неизвестно`.
+* Наставник: [Виталий Драгулин]([https://up.htmlacademy.ru/htmlcss/38/user/46452](https://htmlacademy.ru/profile/id1008501)).
 
 ---
 
